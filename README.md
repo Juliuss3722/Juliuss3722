@@ -28,7 +28,7 @@ I also like fixing bugs I definitely didn't create.
 
 ## `projects`
 
-**[Juxt](https://juliuss3722.github.io/juxt-library/)** — a component library for Nuxt & Vue. Thoughtfully crafted, themeable, keyboard-complete.
+**[juxt.ui](https://juliuss3722.github.io/juxt-library/)** — a component library for Nuxt & Vue. Thoughtfully crafted, themeable, keyboard-complete.
 
 **[juxt.dev](https://juliuss3722.github.io/juxt.dev/)** — tools worth knowing. A curated directory of developer tools, built with Juxt.
 
