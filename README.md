@@ -32,6 +32,14 @@ I also like fixing bugs I definitely didn't create.
 
 **[juxt.dev](https://juliuss3722.github.io/juxt.dev/)** — tools worth knowing. A curated directory of developer tools, built with Juxt.
 
+**[juxt.theme](https://github.com/Juliuss3722/juxt.theme)** — my own VS Code theme. Designed around a clean, comfortable and consistent coding experience.
+
+<div align="center">
+  <img src="https://i.imgur.com/E7qIoJJ.png" alt="juxt.theme VS Code theme preview" width="800" />
+</div>
+
+**[justopenit](https://github.com/Juliuss3722/justopenit)** — a small VS Code extension that adds something I always felt was missing: the ability to switch between parent and child folders directly from the right-click context menu. Simple, essential, and saves a few unnecessary clicks.
+
 ---
 
 ## `stack`
